@@ -1,0 +1,35 @@
+_repo: Baudelaire-His-Prose-and-Poetry_47032
+contributor:
+  contributor:
+    agent_name: Sturm, Frank Pearce
+    gutenberg_agent_id: '44100'
+    url: http://www.gutenberg.org/2009/agents/44100
+  creator:
+    editor:
+      agent_name: Smith, Thomas Robert
+      gutenberg_agent_id: '44101'
+      url: http://www.gutenberg.org/2009/agents/44101
+creator:
+  author:
+    agent_name: Baudelaire, Charles
+    aliases:
+    - Baudelaire-Dufays, Charles Pierre
+    - Baudelaire-Dufaÿs, Charles Pierre
+    birthdate: 1821
+    deathdate: 1867
+    gutenberg_agent_id: '1947'
+    url: http://www.gutenberg.org/2009/agents/1947
+    wikipedia:
+    - http://en.wikipedia.org/wiki/Charles_Baudelaire
+    - http://fr.wikipedia.org/wiki/Charles_Baudelaire
+description: ''
+gutenberg_issued: '2014-10-03'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '47032'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+title: 'Baudelaire: His Prose and Poetry'
+url: http://www.gutenberg.org/ebooks/47032
