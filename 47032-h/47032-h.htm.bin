@@ -1,0 +1,17 @@
+%pagenumbers = (
+);
+
+$bookmarks[0] = '4.56';
+
+
+@operations = (
+'Fri Oct  3 12:59:26 2014 - Open C:\ACTIVE\47032\47032-h\47032-h.htm',
+'Fri Oct  3 12:59:26 2014 - HTML Markup',
+'Fri Oct  3 12:59:56 2014 - File Saved',
+);
+
+$spellindexbkmrk = '';
+
+$scannoslistpath = '';
+
+1;
