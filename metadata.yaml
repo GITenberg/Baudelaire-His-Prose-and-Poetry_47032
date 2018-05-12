@@ -1,4 +1,5 @@
 _repo: Baudelaire-His-Prose-and-Poetry_47032
+_version: 0.1.0
 contributor:
   contributor:
     agent_name: Sturm, Frank Pearce
@@ -9,6 +10,9 @@ contributor:
       agent_name: Smith, Thomas Robert
       gutenberg_agent_id: '44101'
       url: http://www.gutenberg.org/2009/agents/44101
+covers:
+- cover_type: archival
+  image_path: 47032-h/images/baud_cover.png
 creator:
   author:
     agent_name: Baudelaire, Charles
@@ -23,6 +27,8 @@ creator:
     - http://en.wikipedia.org/wiki/Charles_Baudelaire
     - http://fr.wikipedia.org/wiki/Charles_Baudelaire
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/47032#Baudelaire-His-Prose-and-Poetry
 gutenberg_issued: '2014-10-03'
 gutenberg_type: Text
 identifiers:
